@@ -7,8 +7,8 @@ const nextConfig = {
   trailingSlash: true,
   distDir: 'out',
   // Configure for GitHub Pages deployment
-  assetPrefix: '/darshan-industries',
-  basePath: '/darshan-industries',
+  basePath: '/darshan-industries-ghp1',
+  assetPrefix: '/darshan-industries-ghp1',
 }
 
 module.exports = nextConfig
